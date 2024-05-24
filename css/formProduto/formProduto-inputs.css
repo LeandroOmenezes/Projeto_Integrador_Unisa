@@ -1,0 +1,51 @@
+.formProduto__categoria,
+.formProduto__nome,
+.formProduto__preco {
+    height: 3.5rem;
+    border-radius: 4px;
+    border: none;
+    border-bottom: 2px var(--btn-color) solid;
+    outline: none;
+    padding: 0 1rem;
+    margin: 1rem 0;
+}
+
+.formProduto__categoria:focus,
+.formProduto__nome:focus,
+.formProduto__preco:focus {
+    border-bottom: 2px var(--form-border) solid;
+}
+
+.formProduto__label--categoria,
+.formProduto__label--nome,
+.formProduto__label--preco {
+    position: relative;
+    pointer-events: none;
+    font-size: 1rem;
+    font-weight: 400;
+    transition: 0.2s ease all;
+    width: 100%;
+    color: var(--placeholder-color);
+    bottom: 3.275rem;
+    left: 1rem;
+}
+
+.formProduto__categoria:focus~.formProduto__label--categoria,
+.formProduto__categoria:not(:focus):valid~.formProduto__label--categoria,
+.formProduto__nome:focus~.formProduto__label--nome,
+.formProduto__nome:not(:focus):valid~.formProduto__label--nome,
+.formProduto__preco:focus~.formProduto__label--preco,
+.formProduto__preco:not(:focus):valid~.formProduto__label--preco {
+    font-size: .75rem;
+    color: var(--form-border);
+    bottom: 4.125rem;
+}
+
+@media screen and (min-width: 1024px) {
+
+    .formProduto__categoria,
+    .formProduto__nome,
+    .formProduto__preco {
+        width: 35rem;
+    }
+}

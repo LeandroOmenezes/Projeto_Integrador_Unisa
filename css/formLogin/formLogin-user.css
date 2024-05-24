@@ -1,0 +1,53 @@
+.formLogin__user {
+    height: 3.5rem;
+    width: 100%;
+    border-radius: 4px;
+    border: none;
+    border-bottom: 2px var(--btn-color) solid;
+    outline: none;
+    padding: 0 1rem;
+    margin-bottom: 1rem;
+}
+
+.formLogin__user:focus {
+    border-bottom: 2px var(--form-border) solid;
+}
+
+.formLogin__label--user {
+    position: relative;
+    pointer-events: none;
+    font-size: 1rem;
+    font-weight: 400;
+    transition: 0.2s ease all;
+    width: 100%;
+    color: var(--placeholder-color);
+    bottom: 3.275rem;
+    left: 1rem;
+}
+
+.formLogin__user:focus~.formLogin__label--user,
+.formLogin__user:not(:focus):valid~.formLogin__label--user {
+    font-size: .75rem;
+    color: var(--form-border);
+    bottom: 4.525rem;
+}
+
+.formLogin__user:indeterminate {
+    font-size: .75rem;
+    color: var(--placeholder-color);
+    bottom: 4.525rem;
+}
+
+@media screen and (min-width: 768px) {
+    .formLogin__user {
+        width: 17.1875rem;
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+    .formLogin__user {
+        width: 26.4375rem;
+        height: 3.9375rem;
+    }
+}

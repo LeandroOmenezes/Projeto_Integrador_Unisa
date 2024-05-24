@@ -1,0 +1,33 @@
+:root {
+    --bg-general: #172230;
+    --bg-form: #414f62;
+    --btn-color: #EEBF5B;
+    --btn-color-sec: #B3400E;
+    --btn-hover-prim: #B3400E;
+    --form-border: #8A4470;
+    --menu-border-focus: #EEbF5B;
+    --placeholder-color: #A2A2A2;
+    --pure-white: #FFFFFF;
+    --text-color: #f4f4f4;
+
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+body {
+    color: var(--text-color);
+    background-color: var(--bg-general);
+    font-family: 'Raleway', sans-serif;
+    padding-top: 4.5rem;
+    scroll-behavior: smooth;
+
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        padding-top: 6.5rem;
+    }
+}
