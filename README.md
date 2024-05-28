@@ -36,6 +36,7 @@ Esse projeto é resultado do último projeto Integrador do Curso de ADS Módulo 
 - Um rodapé com formulário para contato e outras informações relevantes.
 - Menu administrador para eles conseguirem adicionar, editar, buscar ou eliminar produtos da loja.
 - **É muito importante que o site seja responsivo** para dar aos clientes a facilidade de comprar através de dispositivos mobiles.
+- imagem da página inicial com as imagens carregadas.
 
 ![home](https://github.com/LeandroOmenezes/Projeto_Integrador_Unisa/assets/97365752/76307ca8-b4a4-4073-8c82-1cc18eb4051e)
 
