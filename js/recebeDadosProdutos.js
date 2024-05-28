@@ -5,7 +5,7 @@ export const recebeProdutos = async () => {
 		return listaProdutos;
 	} catch {
 		const dadosProdutos = await fetch(
-			"https://github.com/LeandroOmenezes/Projeto_Integrador_Unisa/blob/main/db.json"
+			"https://raw.githubusercontent.com/LeandroOmenezes/Projeto_Integrador_Unisa/main/db.json"
 
 		);
 		const listaProdutos = await dadosProdutos.json();
