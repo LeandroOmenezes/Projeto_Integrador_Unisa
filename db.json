@@ -1,7 +1,7 @@
 {
   "produtos": [
     {
-      "nome": "Produto",
+      "nome": "Produto 1",
       "src": "https://i.pinimg.com/originals/56/47/fd/5647fd69e68474332a3ba3a75cbb1d3c.jpg",
       "categoria": "moda-fashion",
       "preco": "60,99",
@@ -9,7 +9,7 @@
       "id": 1
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 2",
       "src": "https://th.bing.com/th/id/OIP.wcpqbwRiLicDm5Im_M5KgAHaKX?pid=ImgDet&w=208&h=291&c=7NQ_NP_637936-MLB27963810453_082018-F.jpg",
       "categoria": "moda-fashion",
       "preco": "80,99",
@@ -17,7 +17,7 @@
       "id": 2
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 3",
       "src": "https://i.pinimg.com/originals/4a/b5/f2/4ab5f2e2678de0d818d6414e3751d405.jpg",
       "categoria": "moda-fashion",
       "preco": "60,99",
@@ -25,7 +25,7 @@
       "id": 3
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 4",
       "src": "https://i.pinimg.com/originals/92/2d/03/922d032e020618cea473a9d28e905122.jpg",
       "preco": "60,99",
       "categoria": "moda-fashion",
@@ -33,7 +33,7 @@
       "id": 4
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 5",
       "src": "https://i.pinimg.com/736x/e0/6a/15/e06a15f72e191450f81969a19ceed5fd.jpg",
       "preco": "60,99",
       "categoria": "moda-fashion",
@@ -41,7 +41,7 @@
       "id": 5
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 6",
       "src": "https://th.bing.com/th/id/OIP.jpHXO5nvalVuU-2kMzuNuAHaKX?pid=ImgDet&w=208&h=291&c=7",
       "categoria": "looks",
       "preco": "60,99",
@@ -49,7 +49,7 @@
       "id": 6
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 7",
       "src": "https://th.bing.com/th/id/OIP.R56DgW0XL6CX0NGsqC46AQHaJQ?pid=ImgDet&w=208&h=260&c=7",
       "preco": "60,99",
       "categoria": "looks",
@@ -57,7 +57,7 @@
       "id": 7
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 8",
       "src": "https://th.bing.com/th/id/OIP.jE0xyQgZareYknitk1UO0wHaJQ?pid=ImgDet&w=208&h=260&c=7",
       "preco": "70,99",
       "categoria": "looks",
@@ -65,7 +65,7 @@
       "id": 8
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 9",
       "src": "https://th.bing.com/th/id/OIP.Hy6mBDAR9wERV2pudYE4ZAHaKX?pid=ImgDet&w=208&h=291&c=7",
       "preco": "80,99",
       "categoria": "looks",
@@ -73,7 +73,7 @@
       "id": 9
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 10",
       "src": "https://th.bing.com/th/id/OIP.R09XGitTq_dKedtto4IOlwHaJ4?pid=ImgDet&w=208&h=277&c=7",
       "preco": "70,99",
       "categoria": "looks",
@@ -81,7 +81,7 @@
       "id": 10
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 12",
       "src": "https://th.bing.com/th/id/OIP.hy7u5TNmDPASTih_CuCUdgHaJ4?pid=ImgDet&w=208&h=277&c=7",
       "preco": "80,99",
       "categoria": "ofertas",
@@ -89,7 +89,7 @@
       "id": 12
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 13",
       "src": "https://th.bing.com/th/id/OIP.O4y3nWelMCsqhkbLGTnnLQHaKX?pid=ImgDet&w=208&h=291&c=7",
       "preco": "70,99",
       "categoria": "ofertas",
@@ -97,7 +97,7 @@
       "id": 13
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 14",
       "src": "https://th.bing.com/th/id/OIP.rdcXHld0buzzA0MIzhTXaQHaJ2?pid=ImgDet&w=208&h=276&c=7",
       "preco": "80,99",
       "categoria": "ofertas",
@@ -105,7 +105,7 @@
       "id": 14
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 15",
       "src": "https://th.bing.com/th/id/OIP.0_pwg7FlYT1MQ40B0KQosgHaJ4?pid=ImgDet&w=208&h=277&c=7",
       "preco": "70,99",
       "categoria": "ofertas",
@@ -113,7 +113,7 @@
       "id": 15
     },
     {
-      "nome": "Produto",
+      "nome": "Produto 16",
       "src": "https://i.pinimg.com/originals/92/2d/03/922d032e020618cea473a9d28e905122.jpg",
       "preco": "60,99",
       "categoria": "ofertas",
@@ -204,7 +204,7 @@
       "nome": "Produto 27",
       "src": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjoHFXvnbci5v2FvxouZ5zXrxSUZ68H_9tl33ZWmH5F2qMwIgFoFs1OPrRF6VbwtcjbbQawYOKwuefY8J6gz4aK6VlEv5EcR_LvKSbXN8&usqp=CAE",
       "categoria": "ofertas",
-      "preco": "80,99",
+      "preco": "69,99",
       "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q",
       "id": 27
     },
@@ -233,7 +233,7 @@
       "id": 30
     },
     {
-      "nome": "Produto 29",
+      "nome": "Produto 31",
       "src": "https://modaorigem.com/cdn/shop/files/16887749978593cf357d43ec62c5c2301504878c79_thumbnail_720x_1_500x.jpg?v=1711125686",
       "preco": "69,99",
       "categoria": "ofertas",
