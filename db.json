@@ -83,9 +83,9 @@
     {
       "nome": "Produto 12",
       "src": "https://th.bing.com/th/id/OIP.hy7u5TNmDPASTih_CuCUdgHaJ4?pid=ImgDet&w=208&h=277&c=7",
-      "preco": "80,99",
       "categoria": "ofertas",
-      "descricao": "TLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "preco": "70,99",
+      "descricao": "testando o site",
       "id": 12
     },
     {
@@ -319,6 +319,14 @@
       "categoria": "looks",
       "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, q",
       "id": 41
+    },
+    {
+      "nome": "Produto 11",
+      "src": "https://modaorigem.com/cdn/shop/files/1688775230a311e62f4ddbbc584bf904d50c9cf5c6_thumbnail_720x_1_500x.jpg?v=1711129864",
+      "preco": "29,99",
+      "categoria": "moda-fashion",
+      "descricao": "adicionando novo produto!",
+      "id": 42
     }
   ]
 }
