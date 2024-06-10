@@ -1,14 +1,6 @@
 {
   "produtos": [
     {
-      "nome": "Produto 1",
-      "src": "https://i.pinimg.com/originals/56/47/fd/5647fd69e68474332a3ba3a75cbb1d3c.jpg",
-      "categoria": "moda-fashion",
-      "preco": "60,99",
-      "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "id": 1
-    },
-    {
       "nome": "Produto 2",
       "src": "https://th.bing.com/th/id/OIP.wcpqbwRiLicDm5Im_M5KgAHaKX?pid=ImgDet&w=208&h=291&c=7NQ_NP_637936-MLB27963810453_082018-F.jpg",
       "categoria": "moda-fashion",
@@ -343,6 +335,14 @@
       "categoria": "ofertas",
       "descricao": "adicionando novo produto!",
       "id": 43
+    },
+    {
+      "nome": "teste",
+      "src": "https://i.pinimg.com/originals/56/47/fd/5647fd69e68474332a3ba3a75cbb1d3c.jpg",
+      "preco": "9,99",
+      "categoria": "moda-fashion",
+      "descricao": "testando",
+      "id": 44
     }
   ]
 }
